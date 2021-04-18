@@ -8,6 +8,8 @@ If you would like to join the discussion on Open Hydrology please visit [the Dis
 
 Information on how to contribute can be found in the [Contribution guidelines](CONTRIBUTING.MD)
 
+Please also read our [Code of Conduct](CODE_OF_CONDUCT.md)
+
 ## How to edit pages on this Website
 
 You can use the [editor on GitHub](https://github.com/Open-Hydrology/Open-Hydrology.github.io/edit/main/README.md) to maintain and preview the content for this site in Markdown files.
