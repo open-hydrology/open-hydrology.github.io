@@ -2,13 +2,13 @@
 
 Welcome! You are looking at the README.md file of the source code of the open-hydrology.github.io site. If you happen to use GitHub more often you should feel right at home. If you don't, we apologise for the rather technical view.
 
-If you are looking for the Open Hydrology site itself please head over to [the site](https://open-hydrology.github.io/)
+If you are looking for the Open Hydrology site itself please head over to [the site](https://open-hydrology.github.io/).
 
-If you would like to join the discussion on Open Hydrology please visit [the Discussions section](https://github.com/open-hydrology/open-hydrology.github.io/discussions)
+If you would like to join the discussion on Open Hydrology please visit [the Discussions section](https://github.com/open-hydrology/open-hydrology.github.io/discussions).
 
-Information on how to contribute can be found in the [Contribution guidelines](CONTRIBUTING.MD)
+Information on how to contribute can be found in the [Contribution guidelines](CONTRIBUTING.MD).
 
-Please also read our [Code of Conduct](CODE_OF_CONDUCT.md)
+Please also read our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## How to edit pages on this Website
 
