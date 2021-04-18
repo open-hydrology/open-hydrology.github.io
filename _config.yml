@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Open Hydrology Principles and Practical Guide. We encourage hydrologists
   all over the globe to join the open science conversation by contributing to
   the living version of this document and sharing open hydrology resources here. 
-baseurl: "/open-hydrology.github.io" # the subpath of your site, e.g. /blog
-url: "https://nielsdrost.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://open-hydrology.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  open-hydrology
 
@@ -42,7 +42,7 @@ header_pages:
  - paper.md
  - signees.md
  - resources.md
- - contribute.md
+ - CONTRIBUTING.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
