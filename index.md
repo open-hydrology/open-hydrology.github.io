@@ -3,10 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: The Open Hydrology Principles
 ---
-## Welcome to the Open-Hydrology Site
 
-...Principles figure goes here...
+![Open Hydrology Principles](img/open-hydrology-principles.png)
 
-Please excuse the mess while we get this site ready.
+### Welcome
+
+Welcome to the community site dedicated to helping Hydrology make progress towards open science. Join the community and [subscribe](signees/) to the principles, or [contribute](contribute/) to the dicussion and practicle guide.
 
