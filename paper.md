@@ -12,4 +12,4 @@ To increase accessibility and make the Open Hydrology Principles more tangible a
 The Open Hydrology Principles, Practical Guide, and additional resources reflect our knowledge of the current state of open hydrology and we recognize that recommendations and suggestions will evolve. Therefore, we encourage hydrologists all over the globe to join the open science conversation by contributing to the living version of this document and sharing open hydrology resources at the community-supported repository at open-hydrology.github.io.
 
 
-[Read the Full Paper Here on XXX](about:blank)
+[A link to the full paper will be posted here](about:blank)

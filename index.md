@@ -3,10 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: The Open Hydrology Principles
+title: A Hydrologist's Guide to Open Science
 ---
 
 ![Open Hydrology Principles](img/open-hydrology-principles.png)
+Figure: The Open Hydrology Principles
 
 ### Welcome
 
