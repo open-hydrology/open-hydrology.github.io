@@ -10,9 +10,7 @@ We very much welcome contributions!
 
 Open Hydrology is a community open to all. We, therefore, require all our members and their contributions adhere to our [Code of Conduct](../code_of_conduct/). Please familiarize yourself with our Code of Conduct, which lists the expected behaviours.
 
-<!--
-For those who want to sign-on to practicing open hydrology in their day-to-day research, please subscribe to our [announcement-only list](https://www.freelists.org/list/self-declared_open-hydrologist). The purpose of this list is to keep track of signees in a secury way (i.e., that adheres to [privacy regulations](https://gdpr.eu/)) and have a mechanism to email signees about updated versions of the Open Hydrology Principles. We expect a maximum of five messages per year from this list. All signees will be listed on the [Signees page](https://open-hydrology.github.io/signees/).
--->
+For those who want to sign-on to practicing open hydrology in their day-to-day research, please sign up using [the form](https://forms.gle/qi89sa3oX3kviAj19). All signees will be listed on the [Signees page](https://open-hydrology.github.io/signees/). Optionally we can also keep you up to data of any changes to the principles and/or guide (max 5 messages per year).
 
 ## Joining the Discussion
 

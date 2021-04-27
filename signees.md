@@ -4,10 +4,13 @@ title: Signees
 permalink: /signees/
 ---
 
-This is a list of people who self-declared to be an Open Hydrologist. Add your name here by filling out [this google form](https://forms.gle/qi89sa3oX3kviAj19).
+For those who want to sign-on to practicing open hydrology in their day-to-day research, please sign up using [the form](https://forms.gle/qi89sa3oX3kviAj19). All signees will be listed on this page. Optionally we can also keep you up to data of any changes to the principles and/or guide (max 5 messages per year).
 
+<!--
 
 | Name        | Affiliation      | Country |
 | ----------- | ---------------- | ------- |
-| Niels Drost | Netherlands eScience Center | The Netherlands |
+| Your Name Here | Your Organization | Your Country |
+
+-->
 
