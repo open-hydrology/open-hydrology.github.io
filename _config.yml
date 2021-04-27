@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   the living version of this document and sharing open hydrology resources here. 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://open-hydrology.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Open-Hydrology
+twitter_username: Open_Hydrology
 github_username:  open-hydrology
 
 # Build settings
