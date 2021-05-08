@@ -16,3 +16,6 @@ For those who want to sign-on to practicing open hydrology in their day-to-day r
 |Niels Drost|Netherlands eScience Center|The Netherlands|
 |Tim van Emmerik|Wageningen University|The Netherlands|
 |Rolf Hut|Delft University of Technology|Netherlands|
+|Jessica Droujko|ETH Zürich|Switzerland|
+|Javed Ali|University of Central Florida|United States|
+|Vo Quoc Thanh|Lecturer|Vietnam|
