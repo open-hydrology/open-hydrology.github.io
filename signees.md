@@ -8,13 +8,13 @@ For those who want to sign-on to practicing open hydrology in their day-to-day r
 
 | Name        | Affiliation      | Country |
 | ----------- | ---------------- | ------- |
-|Caitlyn Hall|Arizona State University|US|
+|Caitlyn Hall|Arizona State University|United States|
 |Sheila M. Saia|State Climate Office of North Carolina, North Carolina State University|United States|
 |Andrea L. Popp|University of Oslo|Norway|
 |Nilay Dogulu|Independent researcher|Turkey|
 |Stan Schymanski|Luxembourg Institute of Science and Technology|Luxembourg|
-|Niels Drost|Netherlands eScience Center|The Netherlands|
-|Tim van Emmerik|Wageningen University|The Netherlands|
+|Niels Drost|Netherlands eScience Center|Netherlands|
+|Tim van Emmerik|Wageningen University|Netherlands|
 |Rolf Hut|Delft University of Technology|Netherlands|
 |Jessica Droujko|ETH Zürich|Switzerland|
 |Javed Ali|University of Central Florida|United States|
