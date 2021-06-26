@@ -19,3 +19,4 @@ For those who want to sign-on to practicing open hydrology in their day-to-day r
 |Jessica Droujko|ETH Zürich|Switzerland|
 |Javed Ali|University of Central Florida|United States|
 |Vo Quoc Thanh|Lecturer|Vietnam|
+|Conrad Jackisch|TU Bergakademie Freiberg, Faculty of Geosciences, Geoengineering and Mining, Flow and Transport Modelling in the Geosphere|Germany|
