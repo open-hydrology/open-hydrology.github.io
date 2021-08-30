@@ -20,3 +20,5 @@ For those who want to sign-on to practicing open hydrology in their day-to-day r
 |Javed Ali|University of Central Florida|United States|
 |Vo Quoc Thanh|Lecturer|Vietnam|
 |Conrad Jackisch|TU Bergakademie Freiberg, Faculty of Geosciences, Geoengineering and Mining, Flow and Transport Modelling in the Geosphere|Germany|
+|Simon Bridge|Natural Resources Canada - Geological Survey of Canada|Canada|
+|Kaitlyn Woolling|Yurok Tribe Environmental Program|United States|
