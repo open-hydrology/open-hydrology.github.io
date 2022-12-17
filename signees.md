@@ -22,3 +22,8 @@ For those who want to sign-on to practicing open hydrology in their day-to-day r
 |Conrad Jackisch|TU Bergakademie Freiberg, Faculty of Geosciences, Geoengineering and Mining, Flow and Transport Modelling in the Geosphere|Germany|
 |Simon Bridge|Natural Resources Canada - Geological Survey of Canada|Canada|
 |Kaitlyn Woolling|Yurok Tribe Environmental Program|United States|
+|Ather Abbas|Ulsan National Institute of Science and Technology|South Korea|
+|Nasrin Fathollahzadeh Attar|Urmia University|Iran|
+|Zemrdkun Tegegne|Addis Ababa university|Ethiopia|
+
+
