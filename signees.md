@@ -25,5 +25,6 @@ For those who want to sign-on to practicing open hydrology in their day-to-day r
 |Ather Abbas|Ulsan National Institute of Science and Technology|South Korea|
 |Nasrin Fathollahzadeh Attar|Urmia University|Iran|
 |Zemrdkun Tegegne|Addis Ababa university|Ethiopia|
+|Ines Sanchez-Rodriguez|Open Collaboration Hydrology - Global Institute of Water Security - AGU voices for science|Colombia-Canada|
 
 
